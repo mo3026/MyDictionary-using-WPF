@@ -1,0 +1,372 @@
+﻿<Window x:Class="MyDictionary.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MyDictionary" Height="712" Width="534"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        xmlns:K="clr-namespace:MyDictionary"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        MinWidth="550"
+        MinHeight="775"
+        FocusManager.FocusedElement="{Binding ElementName=TextBoxWord}" Icon="dictionary.ico" Background="Transparent" FontFamily="pack://application:,,,/Fonts/#Minion Pro" FontSize="13.5">
+    <Window.Resources>
+        <ObjectDataProvider x:Key="dataFromEnum"
+       MethodName="GetValues" ObjectType="{x:Type sys:Enum}">
+            <ObjectDataProvider.MethodParameters>
+                <x:Type TypeName="K:Hardness"/>
+            </ObjectDataProvider.MethodParameters>
+        </ObjectDataProvider>
+    </Window.Resources>
+    <Border x:Name="MainBorder" CornerRadius="20">
+        <Border.Resources>
+            <K:BorderClipConverter x:Key="ContentClipConverter1" />
+        </Border.Resources>
+        <Border.Clip>
+            <MultiBinding Converter="{StaticResource ContentClipConverter1}">
+                <Binding Path="ActualWidth"
+                RelativeSource="{RelativeSource Self}"/>
+                <Binding Path="ActualHeight"
+                RelativeSource="{RelativeSource Self}"/>
+                <Binding Path="CornerRadius"
+                RelativeSource="{RelativeSource Self}"/>
+            </MultiBinding>
+        </Border.Clip>
+        <Grid x:Name="grid1" Background="#7FFFFFFF">
+
+            <Grid x:Name="Item2">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="20"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="20"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="20"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="20"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <!-- Grips -->
+                <!-- Sides -->
+                <Rectangle Grid.Column="0" Grid.Row="1" Name="leftSizeGrip" Fill="Transparent" Panel.ZIndex="4"/>
+                <Rectangle Grid.Column="2" Grid.Row="1" Name="rightSizeGrip" Fill="Transparent"  Panel.ZIndex="4"/>
+                <Rectangle  Cursor="Hand" Grid.Column="1" Grid.Row="0" Name="topSizeGrip" Fill="Transparent"  Panel.ZIndex="4" PreviewMouseLeftButtonDown="topSizeGrip_PreviewMouseLeftButtonDown"/>
+                <Rectangle Grid.Column="1" Grid.Row="2" Name="bottomSizeGrip" Fill="Transparent"  Panel.ZIndex="4"/>
+                <!-- Corners -->
+                <Rectangle Grid.Column="0" Grid.Row="0" Name="topLeftSizeGrip" Fill="Transparent"  Panel.ZIndex="4"/>
+                <Rectangle Grid.Column="2" Grid.Row="2" Name="bottomRightSizeGrip" Fill="Transparent"  Panel.ZIndex="4"/>
+                <Rectangle Grid.Column="2" Grid.Row="0" Name="topRightSizeGrip" Fill="Transparent"  Panel.ZIndex="4"/>
+                <Rectangle Grid.Column="0" Grid.Row="2" Name="bottomLeftSizeGrip" Fill="Transparent"  Panel.ZIndex="4"/>
+            </Grid>
+
+            <Grid Cursor="Hand" Height="27" Margin="0,8,21,0" VerticalAlignment="Top" Panel.ZIndex="4" x:Name="Item3">
+                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="My Dictionary" FontWeight="Bold"  FontFamily="/MyDictionary;component/Fonts/#Cooper Std Black"/>
+                <StackPanel Grid.Row="0"
+                Orientation="Horizontal"
+                HorizontalAlignment="Right">
+                    <K:PDSAucButtonImage x:Name="btnMinimize"
+                      Click="btnMinimize_Click"
+                      ToolTip="Minimize Application"
+                      ImageUri="/MyDictionary;component/ImageButton/Images/Minus.png" />
+                    <K:PDSAucButtonImage x:Name="btnMaximize"
+                            Click="btnMaximize_Click"
+                            ToolTip="Maximize Application"
+                            ImageUri="/MyDictionary;component/ImageButton/Images/Stop.png" />
+                    <K:PDSAucButtonImage x:Name="btnClose"
+                            Click="btnClose_Click"
+                            ToolTip="Close Application"
+                            ImageUri="/MyDictionary;component/ImageButton/Images/Close.png" />
+                </StackPanel>
+            </Grid>
+
+            <Grid Grid.RowSpan="3" Grid.ColumnSpan="3" Cursor="Hand" x:Name="Item1" PreviewMouseLeftButtonDown="Item1_PreviewMouseLeftButtonDown" Background="#7F778899">
+                <Rectangle Fill="#19000000" RadiusX="20" RadiusY="20" Margin="2" StrokeThickness="0"/>
+                <Rectangle Fill="#19000000" RadiusX="20" RadiusY="20" Margin="4" StrokeThickness="0"/>
+                <Rectangle Fill="#25000000" RadiusX="20" RadiusY="20" Margin="6" StrokeThickness="0"/>
+                <Rectangle>
+                    <Rectangle.Fill>
+                        <LinearGradientBrush EndPoint="0.4,0.58" StartPoint="0.6,0.45">
+                            <GradientStop Color="#0E000000" Offset="0.0"/>
+                            <GradientStop Color="#33000000" Offset="0.25"/>
+                            <GradientStop Color="#4C000000" Offset="0.45"/>
+                            <GradientStop Color="#21000000" Offset="0.60"/>
+                        </LinearGradientBrush>
+                    </Rectangle.Fill>
+                </Rectangle>
+            </Grid>
+
+            <Grid Grid.RowSpan="3" Grid.ColumnSpan="3">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="5.8*"/>
+                </Grid.RowDefinitions>
+                <DockPanel Panel.ZIndex="1" Grid.Row="0">
+                    <DockPanel Panel.ZIndex="1"  DockPanel.Dock="Left">
+                        <Image x:Name="Theme" DockPanel.Dock="Top" Width="75" Height="75" Margin="15,42,15,0" VerticalAlignment="Top"
+                            ToolTip="Change Theme"
+                            Source="/MyDictionary;component/dictionary.ico">
+                        </Image>
+
+                        <Grid>
+                            <TextBlock Margin="10,-7,10,00" Text="My Dictionary" HorizontalAlignment="Center" VerticalAlignment="Top" FontWeight="Bold"  FontFamily="/MyDictionary;component/Fonts/#Cooper Std Black" Foreground="#00000000"/>
+                            <Path Margin="0,0,-10,-10" Stroke="#FFC7C7C7" StrokeThickness="0" Fill="White" DockPanel.Dock="Bottom" VerticalAlignment="Bottom" HorizontalAlignment="Right">
+                                <Path.Data>
+                                    <PathGeometry>
+                                        <PathFigure StartPoint="58,58">
+                                            <PathFigure.Segments>
+                                                <LineSegment Point="58,-19" IsStroked="False" />
+                                                <ArcSegment Point="-19,58" SweepDirection="Clockwise" Size="69,69"/>
+                                                <LineSegment Point="58,58" IsStroked="False" />
+                                            </PathFigure.Segments>
+                                        </PathFigure>
+                                    </PathGeometry>
+                                </Path.Data>
+                            </Path>
+                            <Path Margin="0,0,-8,-8" StrokeThickness="34" DockPanel.Dock="Bottom" VerticalAlignment="Bottom" HorizontalAlignment="Right">
+                                <Path.Stroke>
+                                    <RadialGradientBrush  GradientOrigin="0,0" Center="0,0"  RadiusY="1" RadiusX="1" >
+                                        <GradientStop Offset="1.00" Color="{DynamicResource InnerColor}"/>
+                                        <GradientStop Offset="0.81" Color="{StaticResource OuterColor}"/>
+                                    </RadialGradientBrush>
+                                </Path.Stroke>
+                                <Path.Data>
+                                    <PathGeometry>
+                                        <PathFigure>
+                                            <PathFigure.Segments>
+                                                <LineSegment Point="46,0" IsStroked="False" />
+                                                <ArcSegment Point="0,46" SweepDirection="Clockwise" Size="46,46"/>
+                                            </PathFigure.Segments>
+                                        </PathFigure>
+                                    </PathGeometry>
+                                </Path.Data>
+                            </Path>
+                        </Grid>
+                    </DockPanel>
+                    <K:FadingBorderSmall FadingThickness="12" InnerColor="#FF373737" Template="{StaticResource MySpecialTemplateSmall}" x:Name="borderWord" Panel.ZIndex="0"  Margin="-4,35,5,-9" Background="White" DockPanel.Dock="Left">
+                        <Grid Margin="0,10,0,0" VerticalAlignment="Center" Background="White">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="26"/>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="64"/>
+                            </Grid.RowDefinitions>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="20*"/>
+                                    <ColumnDefinition Width="200*"/>
+                                    <ColumnDefinition Width="20*"/>
+                                    <ColumnDefinition Width="80*"/>
+                                    <ColumnDefinition Width="5*"/>
+                                </Grid.ColumnDefinitions>
+                                <TextBox x:Name="TextBoxWord" VerticalAlignment="Center" Margin="0" TextChanged="TextBoxWord_TextChanged" Grid.Column="1"/>
+                                <Button x:Name="ButtonAddMeaning" Content="Add" VerticalAlignment="Center" Grid.Column="3" Margin="0" Click="Button_Click" IsEnabled="False" HorizontalAlignment="Left" Width="80" />
+                            </Grid>
+                            <Grid Grid.Row="1">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*"/>
+                                    <RowDefinition Height="*"/>
+
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="20*"/>
+                                    <ColumnDefinition Width="200*"/>
+                                    <ColumnDefinition Width="20*"/>
+                                    <ColumnDefinition Width="80*"/>
+                                    <ColumnDefinition Width="5*"/>
+                                </Grid.ColumnDefinitions>
+                                <ListBox x:Name="ListBoxWords" ItemsSource="{DynamicResource Drink}"  SelectionChanged="ListBoxWords_SelectionChanged" Grid.RowSpan="3" Grid.Column="1">
+                                    <ListBox.ItemTemplate>
+                                        <DataTemplate>
+                                            <TextBlock Text="{Binding Path=Key}" Margin="2,0,0,0" MouseLeftButtonUp="TextBlock_MouseLeftButtonUp"/>
+                                        </DataTemplate>
+                                    </ListBox.ItemTemplate>
+                                </ListBox>
+                                <Button Content="Remove" VerticalAlignment="Center" Grid.Column="3" Margin="0,2,0,0" HorizontalAlignment="Left" Width="80" Click="Button_Click_8" >
+                                    <Button.Style>
+                                        <Style>
+                                            <Style.Triggers>
+                                                <DataTrigger 
+                     Binding ="{Binding ElementName=ListBoxWords, Path=SelectedIndex}" 
+                     Value="-1">
+                                                    <Setter Property="Button.IsEnabled" Value="false"/>
+                                                </DataTrigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </Button.Style>
+                                </Button>
+                                <ComboBox x:Name="ComboBoxHardnesses" ItemsSource="{Binding Source={StaticResource dataFromEnum}}" Grid.Column="3" HorizontalAlignment="Left" Margin="0" VerticalAlignment="Center" Width="80" SelectionChanged="ComboBoxHardnesses_SelectionChanged" Grid.Row="1"/>
+                            </Grid>
+                            <Grid Grid.Row="2" Margin="0,4,0,0">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="10*"/>
+                                    <RowDefinition Height="9*"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="20*"/>
+                                    <ColumnDefinition Width="200*"/>
+                                    <ColumnDefinition Width="20*"/>
+                                    <ColumnDefinition Width="80*"/>
+                                    <ColumnDefinition Width="5*"/>
+                                </Grid.ColumnDefinitions>
+                                <Label Margin="0" Content="Category:" VerticalAlignment="Center" HorizontalAlignment="Left" Grid.Column="1"/>
+                                <ComboBox x:Name="ComboBoxCats" TextBoxBase.TextChanged="ComboBoxCats_TextChanged"  ItemsSource="{DynamicResource Cats}"   IsEditable="True"  Margin="62,0,-80,0" SelectionChanged="ComboBoxCats_SelectionChanged" Grid.Column="1" VerticalAlignment="Center" Grid.ColumnSpan="2"/>
+                                <Button x:Name="ButtonAddCategory" Content="Add"  Grid.Row="1" Margin="62,0,0,0" Click="Button_Click_3" VerticalAlignment="Center" Width="80" HorizontalAlignment="Left" Grid.Column="1" />
+                                <Button x:Name="ButtonRemoveCats" Content="Remove"  Grid.Row="1" VerticalAlignment="Center" Grid.Column="3" Margin="0" Click="Button_Click_4" Width="80" HorizontalAlignment="Left">
+                                    <Button.Style>
+                                        <Style>
+                                            <Style.Triggers>
+                                                <DataTrigger 
+                     Binding ="{Binding ElementName=ComboBoxCats, Path=SelectedIndex}" 
+                     Value="-1">
+                                                    <Setter Property="Button.IsEnabled" Value="false"/>
+                                                </DataTrigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </Button.Style>
+                                </Button>
+                            </Grid>
+                        </Grid>
+                    </K:FadingBorderSmall>
+                </DockPanel>
+
+                <K:FadingBorderLarge Template="{StaticResource MySpecialTemplate}" Margin="5,-4,5,5" FadingThickness="12" InnerColor="#FF373737" Background="White" Grid.Row="1">
+                    <Grid Background="White">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="10*"/>
+                            <RowDefinition Height="9*"/>
+                            <RowDefinition Height="10*"/>
+                            <RowDefinition Height="19*"/>
+                        </Grid.RowDefinitions>
+                        <GroupBox Header="Meaning:" Margin="10,4,10,10">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="74"/>
+                                </Grid.ColumnDefinitions>
+                                <TextBox TextWrapping="Wrap" AcceptsReturn="True"  x:Name="TextBoxMeaning" Text="{Binding Path=Meaning, Mode=OneWay, NotifyOnTargetUpdated=True}" TargetUpdated="OnTargetUpdatedMeaning" Margin="10" Grid.ColumnSpan="1" GotKeyboardFocus="TextBoxMeaning_GotKeyboardFocus"/>
+                                <Button x:Name="ButtonMeaning" VerticalAlignment="Center" Grid.Column="1" Content="Save" Click="Button_Click_1" Width="68" HorizontalAlignment="Left"/>
+                            </Grid>
+                        </GroupBox>
+
+                        <Grid Grid.Row="1">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <GroupBox Header="Synonym:" Margin="10,0,10,10">
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="9*"/>
+                                        <RowDefinition Height="9*"/>
+                                    </Grid.RowDefinitions>
+                                    <TextBox x:Name="TextBoxSynonym" Margin="5" Text="{Binding Path=Synonym, Mode=OneWay, NotifyOnTargetUpdated=True}" TargetUpdated="TextBoxSynonym_TargetUpdated" GotKeyboardFocus="TextBoxSynonym_GotKeyboardFocus" />
+                                    <Button x:Name="ButtonSynonym" Content="Save"  Grid.Row="1" VerticalAlignment="Center" Margin="69,0" Click="ButtonSynonym_Click"/>
+                                </Grid>
+                            </GroupBox>
+                            <GroupBox Header="antonym:" Margin="10,0,10,10" Grid.Column="1">
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="9*"/>
+                                        <RowDefinition Height="9*"/>
+                                    </Grid.RowDefinitions>
+                                    <TextBox x:Name="TextBoxantonym" Margin="5" Text="{Binding Path=Antonym, Mode=OneWay, NotifyOnTargetUpdated=True}" TargetUpdated="TextBoxantonym_TargetUpdated" GotKeyboardFocus="TextBoxantonym_GotKeyboardFocus" />
+                                    <Button x:Name="Buttonantonym" Content="Save"  Grid.Row="1" VerticalAlignment="Center" Margin="69,0" Click="Buttonantonym_Click"/>
+                                </Grid>
+                            </GroupBox>
+                        </Grid>
+
+                        <GroupBox Header="Example:" Margin="10,0,10,10" Grid.Row="2">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="74"/>
+                                </Grid.ColumnDefinitions>
+                                <TextBox TextWrapping="Wrap" AcceptsReturn="True"  x:Name="TextBoxExample" Text="{Binding Path=Example, Mode=OneWay, NotifyOnTargetUpdated=True}" TargetUpdated="OnTargetUpdatedExample"  Margin="10" Grid.ColumnSpan="1" GotKeyboardFocus="TextBoxExample_GotKeyboardFocus"/>
+                                <Button x:Name="ButtonExample" VerticalAlignment="Center" Grid.Column="1" Content="Save" Click="Button_Click_2" HorizontalAlignment="Left" Width="68"/>
+                            </Grid>
+                        </GroupBox>
+
+
+                        <Grid Grid.Row="3" Margin="0,0,0,10">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="7*"/>
+                                <ColumnDefinition Width="8*"/>
+                            </Grid.ColumnDefinitions>
+                            <GroupBox Header="Category:" Margin="10,0,10,0" Height="90">
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="10*"/>
+                                        <RowDefinition Height="9*"/>
+                                    </Grid.RowDefinitions>
+                                    <ComboBox x:Name="ComboBoxCat"   SelectedItem="{Binding Path=Category, Mode=OneWay, NotifyOnTargetUpdated=True}" TargetUpdated="OnTargetUpdatedCategory"  ItemsSource="{DynamicResource Cats}" Margin="5" SelectionChanged="ComboBoxCat_SelectionChanged" />
+                                    <Button x:Name="ButtonCategory" Content="Save"  Grid.Row="1" VerticalAlignment="Center" Margin="60,0" Click="Button_Click_5"/>
+                                </Grid>
+                            </GroupBox>
+                            <GroupBox Header="Hardness:" Margin="10,0,10,0" Grid.Row="1" Height="90">
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="10*"/>
+                                        <RowDefinition Height="9*"/>
+                                    </Grid.RowDefinitions>
+                                    <ComboBox x:Name="ComboBoxHardness" SelectedItem="{Binding Path=Hardness, Mode=OneWay, NotifyOnTargetUpdated=True}" TargetUpdated="OnTargetUpdatedHardness" ItemsSource="{Binding Source={StaticResource dataFromEnum}}" Margin="5" SelectionChanged="ComboBoxHardness_SelectionChanged" />
+                                    <Button x:Name="ButtonHardness" Content="Save"  Grid.Row="1" VerticalAlignment="Center" Margin="60,0" Click="ButtonHardness_Click"/>
+                                </Grid>
+                            </GroupBox>
+
+                            <Grid x:Name="grid"  Grid.Column="1" Grid.RowSpan="2" Margin="-20,0,0,0">
+                                <Grid HorizontalAlignment="Center">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="*"/>
+                                        <RowDefinition Height="*"/>
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="{Binding ElementName=grid,  Path=Height}" MinWidth="161"/>
+                                        <ColumnDefinition/>
+                                    </Grid.ColumnDefinitions>
+                                    <ListView ScrollViewer.VerticalScrollBarVisibility="Disabled" x:Name="ListViewImages"  ItemsSource="{Binding Path=Images, NotifyOnTargetUpdated=True}" TargetUpdated="OnTargetUpdatedImages"
+            Width="{Binding Path=ActualHeight, RelativeSource={RelativeSource Self}}" Grid.RowSpan="2">
+                                        <ListBox.ItemsPanel>
+                                            <ItemsPanelTemplate>
+                                                <WrapPanel Height="{Binding Path=ActualHeight, ElementName=ListViewImages}" x:Name="g"/>
+                                            </ItemsPanelTemplate>
+                                        </ListBox.ItemsPanel>
+                                        <ListBox.ItemTemplate>
+                                            <DataTemplate>
+                                                <Grid Height="{Binding Path=Height, ElementName=g}">
+                                                    <Border  MouseWheel="Border_MouseWheel" BorderThickness="1" BorderBrush="DarkGray" Margin="0,0,0,28">
+                                                        <Border.ToolTip>
+                                                            <ToolTip Height="{Binding PixelHeight,Mode=OneWay}" Width="{Binding PixelWidth,Mode=OneWay}" >
+                                                                <Image VerticalAlignment="Center" HorizontalAlignment="Center" Source="{Binding}" Stretch="Uniform"/>
+                                                            </ToolTip>
+                                                        </Border.ToolTip>
+                                                        <Image Source="{Binding}"/>
+                                                    </Border>
+                                                </Grid>
+                                            </DataTemplate>
+                                        </ListBox.ItemTemplate>
+                                    </ListView>
+
+
+                                    <Button x:Name="ButtonAddImages" Content="Add" VerticalAlignment="Center" Click="Button_Click_7" IsEnabled="False" Width="68" Grid.Column="1" HorizontalAlignment="Left" Margin="10,0,0,0"/>
+                                    <Button Grid.Column="1" Grid.Row="1" Content="Remove" Click="Button_Click_6" VerticalAlignment="Center" Width="68" HorizontalAlignment="Left" Margin="10,0,0,0">
+                                        <Button.Style>
+                                            <Style>
+                                                <Style.Triggers>
+                                                    <DataTrigger 
+                     Binding ="{Binding ElementName=ListViewImages, Path=SelectedIndex}" 
+                     Value="-1">
+                                                        <Setter Property="Button.IsEnabled" Value="false"/>
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Button.Style>
+                                    </Button>
+                                </Grid>
+                            </Grid>
+                        </Grid>
+                    </Grid>
+                </K:FadingBorderLarge>
+            </Grid>
+        </Grid>
+    </Border>
+</Window>

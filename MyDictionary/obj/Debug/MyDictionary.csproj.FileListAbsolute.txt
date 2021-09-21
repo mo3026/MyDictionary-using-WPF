@@ -1,0 +1,138 @@
+c:\users\x\documents\visual studio 2013\Projects\MyDictionary\MyDictionary\bin\Debug\MyDictionary.exe
+c:\users\x\documents\visual studio 2013\Projects\MyDictionary\MyDictionary\bin\Debug\MyDictionary.pdb
+c:\users\x\documents\visual studio 2013\Projects\MyDictionary\MyDictionary\obj\Debug\MainWindow.baml
+c:\users\x\documents\visual studio 2013\Projects\MyDictionary\MyDictionary\obj\Debug\MainWindow.g.cs
+c:\users\x\documents\visual studio 2013\Projects\MyDictionary\MyDictionary\obj\Debug\App.g.cs
+c:\users\x\documents\visual studio 2013\Projects\MyDictionary\MyDictionary\obj\Debug\MyDictionary_MarkupCompile.cache
+c:\users\x\documents\visual studio 2013\Projects\MyDictionary\MyDictionary\obj\Debug\MyDictionary.g.resources
+c:\users\x\documents\visual studio 2013\Projects\MyDictionary\MyDictionary\obj\Debug\MyDictionary.Properties.Resources.resources
+c:\users\x\documents\visual studio 2013\Projects\MyDictionary\MyDictionary\obj\Debug\MyDictionary.csproj.GenerateResource.Cache
+c:\users\x\documents\visual studio 2013\Projects\MyDictionary\MyDictionary\obj\Debug\MyDictionary.exe
+c:\users\x\documents\visual studio 2013\Projects\MyDictionary\MyDictionary\obj\Debug\MyDictionary.pdb
+C:\Users\x\Documents\Visual Studio 2013\Projects\MyDictionary\MyDictionary\bin\Debug\MyDictionary.exe.config
+C:\Users\x\Documents\Visual Studio 2013\Projects\MyDictionary\MyDictionary\obj\Debug\MyDictionary.csprojResolveAssemblyReference.cache
+C:\Users\x\Documents\Visual Studio 2013\Projects\MyDictionary\MyDictionary\obj\Debug\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\bin\Debug\MyDictionary.exe.config
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Debug\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Debug\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\bin\Debug\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\bin\Debug\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Debug\MyDictionary.csprojResolveAssemblyReference.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Debug\ImageButton\PDSAButtonStyles.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Debug\ImageButton\PDSAucButtonImage.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Debug\App.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Debug\ImageButton\PDSAucButtonImage.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Debug\MainWindow.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Debug\App.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Debug\MyDictionary_MarkupCompile.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Debug\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Debug\FadingBorder\Theme.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Debug\FadingBorder\Theme2.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Debug\MainWindow.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Debug\MyDictionary.g.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Debug\MyDictionary.Properties.Resources.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Debug\MyDictionary.csproj.GenerateResource.Cache
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.csproj.AssemblyReference.cache
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary-main\MyDictionary\obj\Debug\ImageButton\ButtonStyles.baml
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary-main\MyDictionary\obj\Debug\ImageButton\ButtonImage.baml
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary-main\MyDictionary\obj\Debug\MoButtonStyles.baml
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary-main\MyDictionary\obj\Debug\App.baml
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary-main\MyDictionary\obj\Debug\ImageButton\ButtonImage.g.cs
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary-main\MyDictionary\obj\Debug\MainWindow.g.cs
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary-main\MyDictionary\obj\Debug\MoButtonImage.g.cs
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary-main\MyDictionary\obj\Debug\App.g.cs
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary-main\MyDictionary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary_MarkupCompile.cache
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary-main\MyDictionary\obj\Debug\FadingBorder\ThemeLarge.baml
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary-main\MyDictionary\obj\Debug\FadingBorder\ThemeSmall.baml
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary-main\MyDictionary\obj\Debug\MainWindow.baml
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary-main\MyDictionary\obj\Debug\MoButtonImage.baml
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.g.resources
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary-main\MyDictionary\bin\Debug\MyDictionary.exe.config
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary-main\MyDictionary\bin\Debug\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary-main\MyDictionary\bin\Debug\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.Properties.Resources.resources
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.csproj.GenerateResource.cache
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary\MyDictionary-main\MyDictionary\bin\Debug\MyDictionary.exe.config
+C:\Users\x\Desktop\MyDictionary\MyDictionary-main\MyDictionary\bin\Debug\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary\MyDictionary-main\MyDictionary\bin\Debug\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.csproj.AssemblyReference.cache
+C:\Users\x\Desktop\MyDictionary\MyDictionary-main\MyDictionary\obj\Debug\ImageButton\ButtonStyles.baml
+C:\Users\x\Desktop\MyDictionary\MyDictionary-main\MyDictionary\obj\Debug\ImageButton\ButtonImage.baml
+C:\Users\x\Desktop\MyDictionary\MyDictionary-main\MyDictionary\obj\Debug\MoButtonStyles.baml
+C:\Users\x\Desktop\MyDictionary\MyDictionary-main\MyDictionary\obj\Debug\App.baml
+C:\Users\x\Desktop\MyDictionary\MyDictionary-main\MyDictionary\obj\Debug\ImageButton\ButtonImage.g.cs
+C:\Users\x\Desktop\MyDictionary\MyDictionary-main\MyDictionary\obj\Debug\MainWindow.g.cs
+C:\Users\x\Desktop\MyDictionary\MyDictionary-main\MyDictionary\obj\Debug\MoButtonImage.g.cs
+C:\Users\x\Desktop\MyDictionary\MyDictionary-main\MyDictionary\obj\Debug\App.g.cs
+C:\Users\x\Desktop\MyDictionary\MyDictionary-main\MyDictionary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\x\Desktop\MyDictionary\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary_MarkupCompile.cache
+C:\Users\x\Desktop\MyDictionary\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\MyDictionary\MyDictionary-main\MyDictionary\obj\Debug\FadingBorder\ThemeLarge.baml
+C:\Users\x\Desktop\MyDictionary\MyDictionary-main\MyDictionary\obj\Debug\FadingBorder\ThemeSmall.baml
+C:\Users\x\Desktop\MyDictionary\MyDictionary-main\MyDictionary\obj\Debug\MainWindow.baml
+C:\Users\x\Desktop\MyDictionary\MyDictionary-main\MyDictionary\obj\Debug\MoButtonImage.baml
+C:\Users\x\Desktop\MyDictionary\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.g.resources
+C:\Users\x\Desktop\MyDictionary\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.Properties.Resources.resources
+C:\Users\x\Desktop\MyDictionary\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.csproj.GenerateResource.cache
+C:\Users\x\Desktop\MyDictionary\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\MyDictionary\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary 2\MyDictionary-main\MyDictionary\obj\Debug\ImageButton\ButtonStyles.baml
+C:\Users\x\Desktop\MyDictionary 2\MyDictionary-main\MyDictionary\obj\Debug\ImageButton\ButtonImage.baml
+C:\Users\x\Desktop\MyDictionary 2\MyDictionary-main\MyDictionary\obj\Debug\MoButtonStyles.baml
+C:\Users\x\Desktop\MyDictionary 2\MyDictionary-main\MyDictionary\obj\Debug\App.baml
+C:\Users\x\Desktop\MyDictionary 2\MyDictionary-main\MyDictionary\obj\Debug\ImageButton\ButtonImage.g.cs
+C:\Users\x\Desktop\MyDictionary 2\MyDictionary-main\MyDictionary\obj\Debug\MainWindow.g.cs
+C:\Users\x\Desktop\MyDictionary 2\MyDictionary-main\MyDictionary\obj\Debug\MoButtonImage.g.cs
+C:\Users\x\Desktop\MyDictionary 2\MyDictionary-main\MyDictionary\obj\Debug\App.g.cs
+C:\Users\x\Desktop\MyDictionary 2\MyDictionary-main\MyDictionary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\x\Desktop\MyDictionary 2\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary_MarkupCompile.cache
+C:\Users\x\Desktop\MyDictionary 2\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\MyDictionary 2\MyDictionary-main\MyDictionary\bin\Debug\MyDictionary.exe.config
+C:\Users\x\Desktop\MyDictionary 2\MyDictionary-main\MyDictionary\bin\Debug\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary 2\MyDictionary-main\MyDictionary\bin\Debug\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary 2\MyDictionary-main\MyDictionary\obj\Debug\FadingBorder\ThemeLarge.baml
+C:\Users\x\Desktop\MyDictionary 2\MyDictionary-main\MyDictionary\obj\Debug\FadingBorder\ThemeSmall.baml
+C:\Users\x\Desktop\MyDictionary 2\MyDictionary-main\MyDictionary\obj\Debug\MainWindow.baml
+C:\Users\x\Desktop\MyDictionary 2\MyDictionary-main\MyDictionary\obj\Debug\MoButtonImage.baml
+C:\Users\x\Desktop\MyDictionary 2\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.g.resources
+C:\Users\x\Desktop\MyDictionary 2\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.Properties.Resources.resources
+C:\Users\x\Desktop\MyDictionary 2\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.csproj.GenerateResource.cache
+C:\Users\x\Desktop\MyDictionary 2\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\MyDictionary 2\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary 2\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary 2\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.csproj.AssemblyReference.cache
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary\bin\Debug\MyDictionary.exe.config
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary\bin\Debug\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary\bin\Debug\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.csproj.AssemblyReference.cache
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary\obj\Debug\ImageButton\ButtonStyles.baml
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary\obj\Debug\ImageButton\ButtonImage.baml
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary\obj\Debug\MoButtonStyles.baml
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary\obj\Debug\App.baml
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary\obj\Debug\ImageButton\ButtonImage.g.cs
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary\obj\Debug\MainWindow.g.cs
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary\obj\Debug\MoButtonImage.g.cs
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary\obj\Debug\App.g.cs
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary_MarkupCompile.cache
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary\obj\Debug\FadingBorder\ThemeLarge.baml
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary\obj\Debug\FadingBorder\ThemeSmall.baml
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary\obj\Debug\MainWindow.baml
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary\obj\Debug\MoButtonImage.baml
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.g.resources
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.Properties.Resources.resources
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.csproj.GenerateResource.cache
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.csproj.CopyComplete
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary-main\MyDictionary\obj\Debug\MyDictionary.pdb

@@ -1,0 +1,52 @@
+﻿"INSERT INTO [Mededelingen]  (Onderwerp) VALUES ('" + Onderwerp.Text + "')"
+
+"INSERT INTO Order (Status, CustomerID) 
+                    VALUES(13016, SELECT ID FROM Customers WHERE FirstName = 'Garderp')"
+
+"INSERT INTO [Order] (Status, CustomerID) " + " SELECT 13016, ID FROM Customers WHERE FirstName = 'Garderp')"
+
+"INSERT INTO [Order] (Status, CustomerID) VALUES "
+            
+"INSERT INTO Order 
+(Status, CustomerID)
+VALUES " + "(13016, 
+(SELECT ID FROM Customers WHERE FirstName = 'Garderp'))"
+
+"INSERT INTO Order (Status, CustomerID) VALUES " + "(13016, SELECT TOP 1 ID FROM Customers WHERE FirstName = \'Garderp\')"
+
+"INSERT INTO Order (Status, CustomerID) VALUES " + "(13016, SELECT ID FROM Customers WHERE FirstName = \'Garderp\')"
+
+"INSERT INTO VSI_SupplierOrders(VehicleRecordID) VALUES (@VehicleRecordID)"
+
+INSERT INTO VSI_VehicleRecords(StockNumber,Status,Make,Model,Colour,Spefication) 
+      VALUES (@StockNumber, @Status, @Make, @Model, @Colour, @Specification);
+
+"INSERT INTO [Mededelingen]  (Onderwerp) VALUES ('" + Onderwerp.Text + "')"
+
+"INSERT INTO Persons(FirstName, LastName, GenderID) " +
+                    "VALUES('James', 'Palau', 1), " +
+                    "      ('Ann', 'Nsang', 2), " +
+                    "      ('Marc', 'Ulrich', 1), " +
+                    "      ('Arjuh', 'Namdy', 3), " +
+                    "      ('Aisha', 'Diabate', 2);"
+
+INSERT INTO Persons(FirstName, LastName, GenderID)
+VALUES(N'James', N'Palau', 1),
+      (N'Ann', N'Nsang', 2),
+      (N'Marc', N'Ulrich', 1),
+      (N'Arjuh', N'Namdy', 3),
+      (N'Aisha', N'Diabate', 2);
+
+INSERT INTO Genders
+VALUES(1, N'Male'), (2, N'Female'), (3, N'Unknown');
+
+"Insert INTO MyTable Values ('Abe')"
+
+"INSERT INTO Test(textdata) VALUES ('{0}');"
+
+DELETE FROM Customers
+WHERE CustomerName='Alfreds Futterkiste' AND ContactName='Maria Anders'; 
+
+UPDATE Customers
+SET ContactName='Alfred Schmidt', City='Hamburg'
+WHERE CustomerName='Alfreds Futterkiste';

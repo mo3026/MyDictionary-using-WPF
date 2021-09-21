@@ -1,0 +1,605 @@
+C:\Users\x\Documents\Visual Studio 2013\Projects\MyDictionary\MyDictionary\bin\Release\MyDictionary.exe.config
+C:\Users\x\Documents\Visual Studio 2013\Projects\MyDictionary\MyDictionary\bin\Release\MyDictionary.exe
+C:\Users\x\Documents\Visual Studio 2013\Projects\MyDictionary\MyDictionary\bin\Release\MyDictionary.pdb
+C:\Users\x\Documents\Visual Studio 2013\Projects\MyDictionary\MyDictionary\obj\Release\MainWindow.g.cs
+C:\Users\x\Documents\Visual Studio 2013\Projects\MyDictionary\MyDictionary\obj\Release\App.g.cs
+C:\Users\x\Documents\Visual Studio 2013\Projects\MyDictionary\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+C:\Users\x\Documents\Visual Studio 2013\Projects\MyDictionary\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+C:\Users\x\Documents\Visual Studio 2013\Projects\MyDictionary\MyDictionary\obj\Release\MainWindow.baml
+C:\Users\x\Documents\Visual Studio 2013\Projects\MyDictionary\MyDictionary\obj\Release\MyDictionary.g.resources
+C:\Users\x\Documents\Visual Studio 2013\Projects\MyDictionary\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+C:\Users\x\Documents\Visual Studio 2013\Projects\MyDictionary\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.Cache
+C:\Users\x\Documents\Visual Studio 2013\Projects\MyDictionary\MyDictionary\obj\Release\MyDictionary.exe
+C:\Users\x\Documents\Visual Studio 2013\Projects\MyDictionary\MyDictionary\obj\Release\MyDictionary.pdb
+C:\Users\x\Documents\Visual Studio 2013\Projects\MyDictionary\MyDictionary\obj\Release\MyDictionary.csprojResolveAssemblyReference.cache
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary\MyDictionary\bin\Release\MyDictionary.exe.config
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary\MyDictionary\obj\Release\MyDictionary.exe
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary\MyDictionary\obj\Release\MyDictionary.pdb
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary\MyDictionary\bin\Release\MyDictionary.exe
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary\MyDictionary\bin\Release\MyDictionary.pdb
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary\MyDictionary\obj\Release\MyDictionary.csprojResolveAssemblyReference.cache
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary\MyDictionary\obj\Release\MainWindow.g.cs
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary\MyDictionary\obj\Release\App.g.cs
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary\MyDictionary\obj\Release\MainWindow.baml
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary\MyDictionary\obj\Release\MyDictionary.g.resources
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.Cache
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary\MyDictionary\obj\Release\GeneratedInternalTypeHelper.g.cs
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer)\MyDictionary\bin\Release\MyDictionary.exe.config
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer)\MyDictionary\obj\Release\MyDictionary.exe
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer)\MyDictionary\obj\Release\MyDictionary.pdb
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer)\MyDictionary\bin\Release\MyDictionary.exe
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer)\MyDictionary\bin\Release\MyDictionary.pdb
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer)\MyDictionary\obj\Release\MyDictionary.csprojResolveAssemblyReference.cache
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer)\MyDictionary\obj\Release\MainWindow.g.cs
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer)\MyDictionary\obj\Release\App.g.cs
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer)\MyDictionary\obj\Release\GeneratedInternalTypeHelper.g.cs
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer)\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer)\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer)\MyDictionary\obj\Release\MainWindow.baml
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer)\MyDictionary\obj\Release\MyDictionary.g.resources
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer)\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer)\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.Cache
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer and SQL)\MyDictionary\bin\Release\MyDictionary.exe.config
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer and SQL)\MyDictionary\obj\Release\MyDictionary.exe
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer and SQL)\MyDictionary\obj\Release\MyDictionary.pdb
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer and SQL)\MyDictionary\bin\Release\MyDictionary.exe
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer and SQL)\MyDictionary\bin\Release\MyDictionary.pdb
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer and SQL)\MyDictionary\obj\Release\MainWindow.g.cs
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer and SQL)\MyDictionary\obj\Release\App.g.cs
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer and SQL)\MyDictionary\obj\Release\GeneratedInternalTypeHelper.g.cs
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer and SQL)\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer and SQL)\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer and SQL)\MyDictionary\obj\Release\MainWindow.baml
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer and SQL)\MyDictionary\obj\Release\MyDictionary.g.resources
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer and SQL)\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer and SQL)\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.Cache
+G:\mo\Developement\WPF\Projects\MyDictionary\MyDictionary(Xmlserializer and SQL)\MyDictionary\obj\Release\MyDictionary.csprojResolveAssemblyReference.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 6\MyDictionary\bin\Release\MyDictionary.exe.config
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 6\MyDictionary\obj\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 6\MyDictionary\obj\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 6\MyDictionary\bin\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 6\MyDictionary\bin\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 6\MyDictionary\obj\Release\MyDictionary.csprojResolveAssemblyReference.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 6\MyDictionary\obj\Release\MainWindow.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 6\MyDictionary\obj\Release\App.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 6\MyDictionary\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 6\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 6\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 6\MyDictionary\obj\Release\MainWindow.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 6\MyDictionary\obj\Release\MyDictionary.g.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 6\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 6\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.Cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 7 CE\MyDictionary\bin\Release\MyDictionary.exe.config
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 7 CE\MyDictionary\obj\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 7 CE\MyDictionary\obj\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 7 CE\MyDictionary\bin\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 7 CE\MyDictionary\bin\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 7 CE\MyDictionary\obj\Release\MyDictionary.csprojResolveAssemblyReference.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 7 CE\MyDictionary\obj\Release\MainWindow.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 7 CE\MyDictionary\obj\Release\App.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 7 CE\MyDictionary\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 7 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 7 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 7 CE\MyDictionary\obj\Release\MainWindow.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 7 CE\MyDictionary\obj\Release\MyDictionary.g.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 7 CE\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 7 CE\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.Cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 8 CE\MyDictionary\bin\Release\MyDictionary.exe.config
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 8 CE\MyDictionary\obj\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 8 CE\MyDictionary\obj\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 8 CE\MyDictionary\bin\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 8 CE\MyDictionary\bin\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 8 CE\MyDictionary\obj\Release\MainWindow.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 8 CE\MyDictionary\obj\Release\App.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 8 CE\MyDictionary\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 8 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 8 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 8 CE\MyDictionary\obj\Release\MainWindow.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 8 CE\MyDictionary\obj\Release\MyDictionary.g.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 8 CE\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 8 CE\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.Cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 8 CE\MyDictionary\obj\Release\MyDictionary.csprojResolveAssemblyReference.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 9 CE\MyDictionary\bin\Release\MyDictionary.exe.config
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 9 CE\MyDictionary\obj\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 9 CE\MyDictionary\obj\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 9 CE\MyDictionary\bin\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 9 CE\MyDictionary\bin\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 9 CE\MyDictionary\obj\Release\MyDictionary.csprojResolveAssemblyReference.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 9 CE\MyDictionary\obj\Release\MainWindow.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 9 CE\MyDictionary\obj\Release\App.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 9 CE\MyDictionary\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 9 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 9 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 9 CE\MyDictionary\obj\Release\MainWindow.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 9 CE\MyDictionary\obj\Release\MyDictionary.g.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 9 CE\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 9 CE\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.Cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 10 CE\MyDictionary\bin\Release\MyDictionary.exe.config
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 10 CE\MyDictionary\obj\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 10 CE\MyDictionary\obj\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 10 CE\MyDictionary\bin\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 10 CE\MyDictionary\bin\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 10 CE\MyDictionary\obj\Release\MainWindow.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 10 CE\MyDictionary\obj\Release\App.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 10 CE\MyDictionary\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 10 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 10 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 10 CE\MyDictionary\obj\Release\MainWindow.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 10 CE\MyDictionary\obj\Release\MyDictionary.g.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 10 CE\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 10 CE\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.Cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 10 CE\MyDictionary\obj\Release\ImageButton\PDSAButtonStyles.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 10 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 10 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 10 CE\MyDictionary\obj\Release\App.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 11 CE\MyDictionary\bin\Release\MyDictionary.exe.config
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 11 CE\MyDictionary\obj\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 11 CE\MyDictionary\obj\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 11 CE\MyDictionary\bin\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 11 CE\MyDictionary\bin\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 11 CE\MyDictionary\obj\Release\MyDictionary.csprojResolveAssemblyReference.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 11 CE\MyDictionary\obj\Release\ImageButton\PDSAButtonStyles.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 11 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 11 CE\MyDictionary\obj\Release\App.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 11 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 11 CE\MyDictionary\obj\Release\MainWindow.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 11 CE\MyDictionary\obj\Release\App.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 11 CE\MyDictionary\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 11 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 11 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 11 CE\MyDictionary\obj\Release\MainWindow.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 11 CE\MyDictionary\obj\Release\MyDictionary.g.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 11 CE\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 11 CE\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.Cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 12 CE\MyDictionary\bin\Release\MyDictionary.exe.config
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 12 CE\MyDictionary\obj\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 12 CE\MyDictionary\obj\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 12 CE\MyDictionary\bin\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 12 CE\MyDictionary\bin\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 12 CE\MyDictionary\obj\Release\MyDictionary.csprojResolveAssemblyReference.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 12 CE\MyDictionary\obj\Release\ImageButton\PDSAButtonStyles.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 12 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 12 CE\MyDictionary\obj\Release\App.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 12 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 12 CE\MyDictionary\obj\Release\MainWindow.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 12 CE\MyDictionary\obj\Release\App.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 12 CE\MyDictionary\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 12 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 12 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 12 CE\MyDictionary\obj\Release\MainWindow.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 12 CE\MyDictionary\obj\Release\MyDictionary.g.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 12 CE\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 12 CE\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.Cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 13 CE\MyDictionary\bin\Release\MyDictionary.exe.config
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 13 CE\MyDictionary\obj\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 13 CE\MyDictionary\obj\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 13 CE\MyDictionary\bin\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 13 CE\MyDictionary\bin\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 13 CE\MyDictionary\obj\Release\MyDictionary.csprojResolveAssemblyReference.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 13 CE\MyDictionary\obj\Release\ImageButton\PDSAButtonStyles.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 13 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 13 CE\MyDictionary\obj\Release\App.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 13 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 13 CE\MyDictionary\obj\Release\MainWindow.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 13 CE\MyDictionary\obj\Release\App.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 13 CE\MyDictionary\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 13 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 13 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 13 CE\MyDictionary\obj\Release\MainWindow.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 13 CE\MyDictionary\obj\Release\MyDictionary.g.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 13 CE\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 13 CE\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.Cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 14 CE\MyDictionary\bin\Release\MyDictionary.exe.config
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 14 CE\MyDictionary\obj\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 14 CE\MyDictionary\obj\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 14 CE\MyDictionary\bin\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 14 CE\MyDictionary\bin\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 14 CE\MyDictionary\obj\Release\ImageButton\PDSAButtonStyles.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 14 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 14 CE\MyDictionary\obj\Release\App.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 14 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 14 CE\MyDictionary\obj\Release\MainWindow.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 14 CE\MyDictionary\obj\Release\App.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 14 CE\MyDictionary\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 14 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 14 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 14 CE\MyDictionary\obj\Release\MainWindow.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 14 CE\MyDictionary\obj\Release\MyDictionary.g.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 14 CE\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 14 CE\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.Cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 14 CE\MyDictionary\obj\Release\FadingBorder\Theme.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 14 CE\MyDictionary\obj\Release\FadingBorder\Theme2.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 14 CE\MyDictionary\obj\Release\MyDictionary.csprojResolveAssemblyReference.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 15 CE\MyDictionary\bin\Release\MyDictionary.exe.config
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 15 CE\MyDictionary\obj\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 15 CE\MyDictionary\obj\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 15 CE\MyDictionary\bin\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 15 CE\MyDictionary\bin\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 15 CE\MyDictionary\obj\Release\MyDictionary.csprojResolveAssemblyReference.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 15 CE\MyDictionary\obj\Release\ImageButton\PDSAButtonStyles.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 15 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 15 CE\MyDictionary\obj\Release\App.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 15 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 15 CE\MyDictionary\obj\Release\MainWindow.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 15 CE\MyDictionary\obj\Release\App.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 15 CE\MyDictionary\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 15 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 15 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 15 CE\MyDictionary\obj\Release\FadingBorder\Theme.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 15 CE\MyDictionary\obj\Release\FadingBorder\Theme2.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 15 CE\MyDictionary\obj\Release\MainWindow.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 15 CE\MyDictionary\obj\Release\MyDictionary.g.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 15 CE\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 15 CE\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.Cache
+K:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\bin\Release\MyDictionary.exe.config
+K:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Release\MyDictionary.exe
+K:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\bin\Release\MyDictionary.exe.config
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\bin\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\bin\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Release\MyDictionary.csprojResolveAssemblyReference.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Release\ImageButton\PDSAButtonStyles.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Release\App.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Release\MainWindow.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Release\App.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Release\FadingBorder\Theme.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Release\FadingBorder\Theme2.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Release\MainWindow.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Release\MyDictionary.g.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 16 CE\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.Cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 17 CE\MyDictionary\bin\Release\MyDictionary.exe.config
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 17 CE\MyDictionary\obj\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 17 CE\MyDictionary\obj\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 17 CE\MyDictionary\bin\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 17 CE\MyDictionary\bin\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 17 CE\MyDictionary\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 17 CE\MyDictionary\obj\Release\MyDictionary.csprojResolveAssemblyReference.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 17 CE\MyDictionary\obj\Release\ImageButton\PDSAButtonStyles.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 17 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 17 CE\MyDictionary\obj\Release\App.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 17 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 17 CE\MyDictionary\obj\Release\MainWindow.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 17 CE\MyDictionary\obj\Release\App.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 17 CE\MyDictionary\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 17 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 17 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 17 CE\MyDictionary\obj\Release\FadingBorder\Theme.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 17 CE\MyDictionary\obj\Release\FadingBorder\Theme2.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 17 CE\MyDictionary\obj\Release\MainWindow.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 17 CE\MyDictionary\obj\Release\MyDictionary.g.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 17 CE\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 17 CE\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.Cache
+E:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 18 CE\MyDictionary\bin\Release\MyDictionary.exe.config
+E:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 18 CE\MyDictionary\obj\Release\MyDictionary.exe
+E:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 18 CE\MyDictionary\obj\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 18 CE\MyDictionary\bin\Release\MyDictionary.exe.config
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 18 CE\MyDictionary\obj\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 18 CE\MyDictionary\obj\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 18 CE\MyDictionary\obj\Release\MyDictionary.csprojResolveAssemblyReference.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 18 CE\MyDictionary\obj\Release\ImageButton\PDSAButtonStyles.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 18 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 18 CE\MyDictionary\obj\Release\App.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 18 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 18 CE\MyDictionary\obj\Release\MainWindow.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 18 CE\MyDictionary\obj\Release\App.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 18 CE\MyDictionary\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 18 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 18 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 18 CE\MyDictionary\bin\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 18 CE\MyDictionary\bin\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 18 CE\MyDictionary\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 18 CE\MyDictionary\obj\Release\FadingBorder\Theme.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 18 CE\MyDictionary\obj\Release\FadingBorder\Theme2.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 18 CE\MyDictionary\obj\Release\MainWindow.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 18 CE\MyDictionary\obj\Release\MyDictionary.g.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 18 CE\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 18 CE\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.Cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 19 CE\MyDictionary\bin\Release\MyDictionary.exe.config
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 19 CE\MyDictionary\obj\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 19 CE\MyDictionary\obj\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 19 CE\MyDictionary\bin\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 19 CE\MyDictionary\bin\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 19 CE\MyDictionary\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 19 CE\MyDictionary\obj\Release\MyDictionary.csprojResolveAssemblyReference.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 19 CE\MyDictionary\obj\Release\ImageButton\PDSAButtonStyles.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 19 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 19 CE\MyDictionary\obj\Release\App.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 19 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 19 CE\MyDictionary\obj\Release\MainWindow.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 19 CE\MyDictionary\obj\Release\App.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 19 CE\MyDictionary\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 19 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 19 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 19 CE\MyDictionary\obj\Release\FadingBorder\Theme.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 19 CE\MyDictionary\obj\Release\FadingBorder\Theme2.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 19 CE\MyDictionary\obj\Release\MainWindow.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 19 CE\MyDictionary\obj\Release\MyDictionary.g.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 19 CE\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 19 CE\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.Cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 19 CE\MyDictionary\obj\Release\MoButtonStyles.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 19 CE\MyDictionary\obj\Release\MoButtonImage.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 19 CE\MyDictionary\obj\Release\MoButtonImage.baml
+E:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\bin\Release\MyDictionary.exe.config
+E:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\MyDictionary.exe
+E:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\MyDictionary.pdb
+E:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\bin\Release\MyDictionary.exe
+E:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\bin\Release\MyDictionary.pdb
+E:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\MyDictionary.csprojResolveAssemblyReference.cache
+E:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\ImageButton\PDSAButtonStyles.baml
+E:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.baml
+E:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\MoButtonStyles.baml
+E:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\App.baml
+E:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.g.cs
+E:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\MainWindow.g.cs
+E:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\MoButtonImage.g.cs
+E:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\App.g.cs
+E:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+E:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+E:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\FadingBorder\Theme.baml
+E:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\FadingBorder\Theme2.baml
+E:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\MainWindow.baml
+E:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\MoButtonImage.baml
+E:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\MyDictionary.g.resources
+E:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+E:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.Cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\bin\Release\MyDictionary.exe.config
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\MyDictionary.csprojResolveAssemblyReference.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\ImageButton\PDSAButtonStyles.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\MoButtonStyles.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\App.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\MainWindow.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\MoButtonImage.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\App.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\bin\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\bin\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\FadingBorder\Theme.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\FadingBorder\Theme2.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\MainWindow.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\MoButtonImage.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\MyDictionary.g.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 20 CE\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.Cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 21 CE\MyDictionary\bin\Release\MyDictionary.exe.config
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 21 CE\MyDictionary\obj\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 21 CE\MyDictionary\obj\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 21 CE\MyDictionary\bin\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 21 CE\MyDictionary\bin\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 21 CE\MyDictionary\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 21 CE\MyDictionary\obj\Release\MyDictionary.csprojResolveAssemblyReference.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 21 CE\MyDictionary\obj\Release\ImageButton\PDSAButtonStyles.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 21 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 21 CE\MyDictionary\obj\Release\MoButtonStyles.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 21 CE\MyDictionary\obj\Release\App.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 21 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 21 CE\MyDictionary\obj\Release\MainWindow.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 21 CE\MyDictionary\obj\Release\MoButtonImage.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 21 CE\MyDictionary\obj\Release\App.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 21 CE\MyDictionary\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 21 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 21 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 21 CE\MyDictionary\obj\Release\FadingBorder\Theme.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 21 CE\MyDictionary\obj\Release\FadingBorder\Theme2.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 21 CE\MyDictionary\obj\Release\MainWindow.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 21 CE\MyDictionary\obj\Release\MoButtonImage.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 21 CE\MyDictionary\obj\Release\MyDictionary.g.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 21 CE\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 21 CE\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.Cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\bin\Release\MyDictionary.exe.config
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\bin\Release\MyDictionary.exe
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\bin\Release\MyDictionary.pdb
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.csprojResolveAssemblyReference.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\ImageButton\PDSAButtonStyles.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MoButtonStyles.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\App.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MainWindow.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MoButtonImage.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\App.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\FadingBorder\Theme.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\FadingBorder\Theme2.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MainWindow.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MoButtonImage.baml
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.g.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+C:\Users\x\Desktop\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.Cache
+H:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\bin\Release\MyDictionary.exe.config
+H:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\bin\Release\MyDictionary.exe
+H:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\bin\Release\MyDictionary.pdb
+H:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.csprojResolveAssemblyReference.cache
+H:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\ImageButton\PDSAButtonStyles.baml
+H:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.baml
+H:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MoButtonStyles.baml
+H:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\App.baml
+H:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.g.cs
+H:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MainWindow.g.cs
+H:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MoButtonImage.g.cs
+H:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\App.g.cs
+H:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\GeneratedInternalTypeHelper.g.cs
+H:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+H:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+H:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\FadingBorder\Theme.baml
+H:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\FadingBorder\Theme2.baml
+H:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MainWindow.baml
+H:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MoButtonImage.baml
+H:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.g.resources
+H:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+H:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.Cache
+H:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.csproj.CoreCompileInputs.cache
+H:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.exe
+H:\mo\Developement\WPF\Projects\MyDictionary\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.pdb
+C:\Users\x\Desktop\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\bin\Release\MyDictionary.exe.config
+C:\Users\x\Desktop\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\bin\Release\MyDictionary.exe
+C:\Users\x\Desktop\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\bin\Release\MyDictionary.pdb
+C:\Users\x\Desktop\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\ImageButton\PDSAButtonStyles.baml
+C:\Users\x\Desktop\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.baml
+C:\Users\x\Desktop\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MoButtonStyles.baml
+C:\Users\x\Desktop\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\App.baml
+C:\Users\x\Desktop\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\ImageButton\PDSAucButtonImage.g.cs
+C:\Users\x\Desktop\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MainWindow.g.cs
+C:\Users\x\Desktop\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MoButtonImage.g.cs
+C:\Users\x\Desktop\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\App.g.cs
+C:\Users\x\Desktop\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\x\Desktop\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+C:\Users\x\Desktop\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\FadingBorder\Theme.baml
+C:\Users\x\Desktop\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\FadingBorder\Theme2.baml
+C:\Users\x\Desktop\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MainWindow.baml
+C:\Users\x\Desktop\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MoButtonImage.baml
+C:\Users\x\Desktop\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.g.resources
+C:\Users\x\Desktop\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+C:\Users\x\Desktop\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.cache
+C:\Users\x\Desktop\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.exe
+C:\Users\x\Desktop\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.pdb
+C:\Users\x\Desktop\New folder (3)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.csproj.AssemblyReference.cache
+C:\Users\x\Desktop\New folder (3)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MoButtonStyles.baml
+C:\Users\x\Desktop\New folder (3)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\App.baml
+C:\Users\x\Desktop\New folder (3)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MainWindow.g.cs
+C:\Users\x\Desktop\New folder (3)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MoButtonImage.g.cs
+C:\Users\x\Desktop\New folder (3)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\App.g.cs
+C:\Users\x\Desktop\New folder (3)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\x\Desktop\New folder (3)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+C:\Users\x\Desktop\New folder (3)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\New folder (3)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.exe
+C:\Users\x\Desktop\New folder (3)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.pdb
+C:\Users\x\Desktop\New folder (3)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\bin\Release\MyDictionary.exe.config
+C:\Users\x\Desktop\New folder (3)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\bin\Release\MyDictionary.exe
+C:\Users\x\Desktop\New folder (3)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\bin\Release\MyDictionary.pdb
+C:\Users\x\Desktop\New folder (3)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MainWindow.baml
+C:\Users\x\Desktop\New folder (3)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MoButtonImage.baml
+C:\Users\x\Desktop\New folder (3)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.g.resources
+C:\Users\x\Desktop\New folder (3)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+C:\Users\x\Desktop\New folder (3)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.cache
+C:\Users\x\Desktop\New folder (3)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\bin\Release\MyDictionary.exe.config
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\bin\Release\MyDictionary.exe
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\bin\Release\MyDictionary.pdb
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.csproj.AssemblyReference.cache
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MoButtonStyles.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\App.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MainWindow.g.cs
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MoButtonImage.g.cs
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\App.g.cs
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MainWindow.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MoButtonImage.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.g.resources
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.cache
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.exe
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.pdb
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\ImageButton\ButtonStyles.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\ImageButton\ButtonImage.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\ImageButton\ButtonImage.g.cs
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\ImageButton\ButtonStyles.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\ImageButton\ButtonImage.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MoButtonStyles.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\App.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\ImageButton\ButtonImage.g.cs
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MainWindow.g.cs
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MoButtonImage.g.cs
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\App.g.cs
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.exe
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.pdb
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\bin\Release\MyDictionary.exe.config
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\bin\Release\MyDictionary.exe
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\bin\Release\MyDictionary.pdb
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MainWindow.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MoButtonImage.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.g.resources
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.cache
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\FadingBorder\ThemeLarge.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\FadingBorder\ThemeSmall.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\bin\Release\MyDictionary.exe.config
+C:\Users\x\Desktop\New folder (3)\New folder\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\bin\Release\MyDictionary.exe
+C:\Users\x\Desktop\New folder (3)\New folder\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\bin\Release\MyDictionary.pdb
+C:\Users\x\Desktop\New folder (3)\New folder\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.csproj.AssemblyReference.cache
+C:\Users\x\Desktop\New folder (3)\New folder\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\ImageButton\ButtonStyles.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\ImageButton\ButtonImage.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MoButtonStyles.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\App.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\ImageButton\ButtonImage.g.cs
+C:\Users\x\Desktop\New folder (3)\New folder\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MainWindow.g.cs
+C:\Users\x\Desktop\New folder (3)\New folder\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MoButtonImage.g.cs
+C:\Users\x\Desktop\New folder (3)\New folder\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\App.g.cs
+C:\Users\x\Desktop\New folder (3)\New folder\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\x\Desktop\New folder (3)\New folder\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+C:\Users\x\Desktop\New folder (3)\New folder\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\New folder (3)\New folder\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\FadingBorder\ThemeLarge.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\FadingBorder\ThemeSmall.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MainWindow.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MoButtonImage.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.g.resources
+C:\Users\x\Desktop\New folder (3)\New folder\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+C:\Users\x\Desktop\New folder (3)\New folder\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.cache
+C:\Users\x\Desktop\New folder (3)\New folder\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\New folder (3)\New folder\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.exe
+C:\Users\x\Desktop\New folder (3)\New folder\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.pdb
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\bin\Release\MyDictionary.exe.config
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\bin\Release\MyDictionary.exe
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\bin\Release\MyDictionary.pdb
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.csproj.AssemblyReference.cache
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\ImageButton\ButtonStyles.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\ImageButton\ButtonImage.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MoButtonStyles.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\App.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\ImageButton\ButtonImage.g.cs
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MainWindow.g.cs
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MoButtonImage.g.cs
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\App.g.cs
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.cache
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary_MarkupCompile.lref
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\FadingBorder\ThemeLarge.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\FadingBorder\ThemeSmall.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MainWindow.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MoButtonImage.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.g.resources
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.Properties.Resources.resources
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.csproj.GenerateResource.cache
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.exe
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (3)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\MyDictionary.pdb
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\FadingBorder\ThemeLarge.baml
+C:\Users\x\Desktop\New folder (3)\New folder\New folder (2)\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\FadingBorder\ThemeSmall.baml
+C:\Users\x\Desktop\New folder (3)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\ImageButton\ButtonStyles.baml
+C:\Users\x\Desktop\New folder (3)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\ImageButton\ButtonImage.baml
+C:\Users\x\Desktop\New folder (3)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\ImageButton\ButtonImage.g.cs
+C:\Users\x\Desktop\New folder (3)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\FadingBorder\ThemeLarge.baml
+C:\Users\x\Desktop\New folder (3)\New folder\MyDictionary(Xmlserializer and SQL) 22 CE\MyDictionary\obj\Release\FadingBorder\ThemeSmall.baml
